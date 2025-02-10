@@ -1,0 +1,122 @@
+{
+  "barang": {
+    "BR001": {
+      "id_barang": "BR001",
+      "id_kategori": 6,
+      "nama_barang": "Mentai",
+      "merk": "Fabel Castel",
+      "harga_beli": "2100",
+      "harga_jual": "3150",
+      "satuan_barang": "PCS",
+      "stok": "100",
+      "tgl_input": "6 October 2020, 0:41",
+      "tgl_update": "7 September 2022, 2:54"
+    },
+    "BR002": {
+      "id_barang": "BR002",
+      "id_kategori": 5,
+      "nama_barang": "Premium Mix",
+      "merk": "Lifeboy",
+      "harga_beli": "2200",
+      "harga_jual": "3300",
+      "satuan_barang": "PCS",
+      "stok": "100",
+      "tgl_input": "6 October 2020, 0:41",
+      "tgl_update": "7 September 2022, 2:54"
+    },
+    "BR003": {
+      "id_barang": "BR003",
+      "id_kategori": 1,
+      "nama_barang": "Tobiko Topping",
+      "merk": "Standard",
+      "harga_beli": "2200",
+      "harga_jual": "3300",
+      "satuan_barang": "PCS",
+      "stok": "100",
+      "tgl_input": "6 October 2020, 1:34",
+      "tgl_update": "7 September 2022, 2:59"
+    },
+    "BR004": {
+      "id_barang": "BR004",
+      "id_kategori": 7,
+      "nama_barang": "Regular",
+      "merk": "",
+      "harga_beli": "25000",
+      "harga_jual": "35000",
+      "satuan_barang": "PCS",
+      "stok": "97",
+      "tgl_input": "7 September 2022, 2:55",
+      "tgl_update": "7 September 2022, 3:02"
+    }
+  },
+  "kategori": {
+    "1": {
+      "id_kategori": 1,
+      "nama_kategori": "Dimsum Premium",
+      "tgl_input": "7 May 2017, 10:23"
+    },
+    "5": {
+      "id_kategori": 5,
+      "nama_kategori": "Dimsum Premium Mix",
+      "tgl_input": "7 May 2017, 10:28"
+    },
+    "6": {
+      "id_kategori": 6,
+      "nama_kategori": "Dimsum Mentai",
+      "tgl_input": "6 October 2020, 0:19"
+    },
+    "7": {
+      "id_kategori": 7,
+      "nama_kategori": "Dimsum Regular",
+      "tgl_input": "6 October 2020, 0:20"
+    }
+  },
+  "login": {
+    "1": {
+      "id_login": 1,
+      "user": "admin",
+      "pass": "202cb962ac59075b964b07152d234b70",
+      "id_member": 1
+    }
+  },
+  "member": {
+    "1": {
+      "id_member": 1,
+      "nm_member": "Hestianisari",
+      "alamat_member": "Depok",
+      "telepon": "085155239333",
+      "email": "hestiani1805@gmail.com",
+      "gambar": "unnamed.jpg",
+      "NIK": "Bismillah"
+    }
+  },
+  "nota": {
+    "1": {
+      "id_nota": 1,
+      "id_barang": "BR001",
+      "id_member": 1,
+      "jumlah": "4",
+      "total": "12000",
+      "tanggal_input": "6 October 2020, 0:45",
+      "periode": "10-2020"
+    },
+    "10": {
+      "id_nota": 10,
+      "id_barang": "BR004",
+      "id_member": 1,
+      "jumlah": "1",
+      "total": "35000",
+      "tanggal_input": "7 September 2022, 3:02",
+      "periode": "09-2022"
+    }
+  },
+  "toko": {
+    "1": {
+      "id_toko": 1,
+      "nama_toko": "Dapur Rasa",
+      "alamat_toko": "GG. Manggis, Kelurahan Bojongsari Baru - Depok",
+      "tlp": "085155239333",
+      "nama_pemilik": "Hestianisari"
+    }
+  }
+}
